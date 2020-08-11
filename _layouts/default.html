@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    {% feed_meta %}
+    {% seo %}
+    <link rel="stylesheet" href="/css/site.css">
+  </head>
+  <body>
+    <header class="sticky top-0 bg-white flex justify-between px-6 py-3 z-50">
+      <a href="{{ site.url }}" class="logo">Logo</a>
+      {% include navigation.html %}
+    </header>
+
+    <main class="min-h-screen bg-teal-500 p-6">
+        {{ content }}
+    </main>
+
+    {% if jekyll.environment == 'production' %}
+      {% include analytics.html %}
+    {% endif %}
+
+    <script type="text/javascript" src="/js/lightbox.js"></script>
+    <link rel="stylesheet" href="/css/lightbox.css">
+  </body>
+</html>
+
