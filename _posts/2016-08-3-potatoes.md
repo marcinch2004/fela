@@ -1,5 +1,5 @@
 ---
-layout: category-post
+layout: post
 title:  "Potatoes BBB"
 date:   2015-11-25
 categories: writing

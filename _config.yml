@@ -26,6 +26,8 @@ twitter:
   card: ""
 logo: "path/to/image"
 
+theme: null
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
