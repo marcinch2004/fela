@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     {% feed_meta %}
     {% seo %}
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/site.css">
+    <link rel="stylesheet" href="{{'css/site.css' | relative_url}}">
   </head>
   <body>
     <header class="sticky top-0 bg-white flex justify-between px-6 py-3 z-50">
-      <a href="{{ site.baseurl }}/" class="logo">Logo</a>
+      <a href="{{'/' | relative_url}}" class="logo">Logo</a>
       {% include navigation.html %}
     </header>
 
@@ -20,8 +20,8 @@
       {% include analytics.html %}
     {% endif %}
 
-    <script type="text/javascript" src="/js/lightbox.js"></script>
-    <link rel="stylesheet" href="/css/lightbox.css">
+    <script type="text/javascript" src="{{'js/lightbox.js' | relative_url}}"></script>
+    <link rel="stylesheet" href="{{'css/lightbox.css' | relative_url}}">
   </body>
 </html>
 
