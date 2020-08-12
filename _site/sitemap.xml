@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:5000/fela/writing/2015/11/25/potatoes.html</loc>
+<lastmod>2015-11-25T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:5000/fela/2016/08/07/bacoms-are-delicious.html</loc>
+<lastmod>2016-08-07T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:5000/fela/2016/09/04/markdown-sample.html</loc>
+<lastmod>2016-09-04T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:5000/fela/post/2018/11/24/welcome-to-jekyll/</loc>
+<lastmod>2018-11-24T21:45:06+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:5000/fela/jekyll/update/2019/10/31/welcome-to-jekyll.html</loc>
+<lastmod>2019-10-31T13:48:19+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:5000/fela/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:5000/fela/galeria.html</loc>
+</url>
+<url>
+<loc>http://localhost:5000/fela/</loc>
+</url>
+</urlset>
