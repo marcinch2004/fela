@@ -18,7 +18,7 @@ plugins:
 
 # jekyll-seo-tag configuration
 author: ""
-baseurl: "/fela/_site" 
+baseurl: "/fela" 
 url: ""
 title: ""
 description: ""
