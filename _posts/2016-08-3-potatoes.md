@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Potatoes niech to chuj
+title: Potatoes niech to chuj XXX
 date: 2015-11-25
 categories: writing
 
