@@ -1,1 +1,1 @@
-Sitemap: http://localhost:5000/fela/sitemap.xml
+Sitemap: /fela/sitemap.xml
