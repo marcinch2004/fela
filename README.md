@@ -69,3 +69,7 @@ bin/new POST_TITLE
 ## Deployment
 
 This setup has been tested on [Netlify](https://www.netlify.com). 
+
+
+## Build 
+
