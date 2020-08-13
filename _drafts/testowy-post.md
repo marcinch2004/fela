@@ -7,3 +7,5 @@ gallery:
 
 ---
 sdfdsfsdfdfsff dfsdf sfd
+
+![](/uploads/album/03.jpg)
