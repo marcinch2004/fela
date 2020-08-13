@@ -1,4 +1,22 @@
 ---
 label: post_layout
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: paragraph
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Paragraph
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
