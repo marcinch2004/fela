@@ -20,3 +20,5 @@ fields:
   type: image_gallery
   config: {}
   label: Gallery
+pages:
+- _posts/testowy-post.md
