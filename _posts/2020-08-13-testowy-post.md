@@ -6,6 +6,6 @@ gallery:
 - "/uploads/ruiny-getta.jpg"
 
 ---
-sdfdsfsdfdfsff dfsdf sfd
+Takie treści, to się żmieści
 
 ![](/uploads/album/03.jpg)
